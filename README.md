@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` file for your GitHub repository:
-
 ```markdown
 # 🔍 Advanced OSINT Tool
 
@@ -40,11 +38,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### One-Command Installation
-```bash
-git clone https://github.com/yourusername/advanced-osint-tool.git && cd advanced-osint-tool && python -m venv venv && source venv/bin/activate && pip install -r requirements.txt
-```
-
 ## 📖 Usage
 
 ### Basic Usage
@@ -69,21 +62,11 @@ github.com" > websites.txt
 ```
 
 2. **Run the tool and select option 1**
-```bash
-python advanced_osint.py
-```
 
 ### Analyzing Single Website
 
 1. **Run the tool and select option 2**
-```bash
-python advanced_osint.py
-```
-
 2. **Enter the website URL when prompted**
-```
-Enter website URL: https://example.com
-```
 
 ## 🛠️ Commands Reference
 
@@ -112,9 +95,6 @@ python advanced_osint.py
 
 # Run with basic version
 python osint_simple.py
-
-# Check dependencies
-python check_dependencies.py
 ```
 
 ## 📊 Output Examples
@@ -129,8 +109,6 @@ python check_dependencies.py
    👤 Registrant Name: John Doe
    🏢 Organization: Example Inc.
    📧 Contact Emails: admin@example.com, john@example.com
-   📞 Contact Phone: +1-555-0123
-   📍 Address: 123 Main St, City, Country
 
 📞 CONTACT INFORMATION:
 --------------------------------------------------
@@ -142,25 +120,9 @@ python check_dependencies.py
 --------------------------------------------------
    🔗 Facebook:
       • facebook.com/examplepage
-   🔗 Twitter:
-      • twitter.com/example
-```
-
-## 📁 File Structure
-
-```
-advanced-osint-tool/
-├── advanced_osint.py      # Main OSINT tool
-├── osint_simple.py        # Simplified version
-├── requirements.txt       # Dependencies
-├── check_dependencies.py  # Dependency checker
-├── websites.txt          # Example websites list
-└── README.md             # This file
 ```
 
 ## 🔧 Dependencies
-
-The tool requires the following Python packages:
 
 - `requests` - HTTP requests for web scraping
 - `beautifulsoup4` - HTML parsing and data extraction
@@ -195,10 +157,6 @@ pip install -r requirements.txt
    - Some domains have restricted WHOIS information
    - Tool will continue with other data extraction
 
-3. **Website blocking requests**
-   - Some sites have anti-bot protection
-   - Tool will skip and continue to next website
-
 ### Virtual Environment Issues
 
 ```bash
@@ -211,104 +169,11 @@ pip install --upgrade pip
 pip install -r requirements.txt --no-cache-dir
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Create an issue on GitHub
-3. Provide details about your environment and the error
-
-## 🙏 Acknowledgments
-
-- Thanks to the Python community for excellent libraries
-- Security researchers and OSINT community
-- Contributors and testers
+This project is licensed under the MIT License.
 
 ---
 
 **⭐ If you find this tool useful, please give it a star on GitHub!**
 ```
-
-## Additional Files You Might Want:
-
-### 1. Create a `.gitignore` file:
-```gitignore
-# Virtual environment
-venv/
-.env/
-.venv/
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Output files
-*.txt
-*.csv
-*.xlsx
-
-# Logs
-*.log
-```
-
-### 2. Create a `LICENSE` file (MIT License):
-```text
-MIT License
-
-Copyright (c) 2024 Your Name
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-### 3. Create an example `websites.txt`:
-```text
-example.com
-github.com
-wikipedia.org
-```
-
-Now your GitHub repository will have:
-- ✅ Professional README with installation instructions
-- ✅ Clear usage examples
-- ✅ Troubleshooting guide
-- ✅ Legal disclaimer
-- ✅ Proper file structure
-- ✅ License file
-- ✅ Gitignore for clean commits
-
-Ready for upload! 🚀
