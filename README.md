@@ -1,8 +1,9 @@
 ```markdown
 # 🔍 Advanced OSINT Tool
 
-A powerful Python-based OSINT (Open Source Intelligence) tool for extracting comprehensive contact information and personal details
-from websites. This CLI tool helps you find domain ownership details, contact information, social media profiles, and more.
+A powerful Python-based OSINT (Open Source Intelligence) tool for extracting comprehensive
+contact information and personal detailsfrom websites. This CLI tool helps you find domain
+ownership details, contact information, social media profiles, and more.
 
 ## 🌟 Features
 
