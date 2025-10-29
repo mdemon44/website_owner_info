@@ -1,0 +1,4 @@
+requests==2.32.5
+beautifulsoup4==4.14.2
+whois==1.20240129.2
+dnspython==2.8.0
