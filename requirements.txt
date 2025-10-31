@@ -1,4 +1,8 @@
-requests==2.32.5
-beautifulsoup4==4.14.2
-whois==1.20240129.2
-dnspython==2.8.0
+requests>=2.31.0
+whois>=0.9.3
+beautifulsoup4>=4.12.2
+dnspython>=2.4.2
+urllib3>=2.0.4
+cryptography>=41.0.4
+colorama>=0.4.6
+python-whois>=0.8.0
