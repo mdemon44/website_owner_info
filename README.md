@@ -374,5 +374,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 Only for Educational puposses and If this tools used for bad Purpose i'm not responsible for that. 
-Thank You 
-eita amar github er full readme.md file puro take amon bhabe update koro single ekta link o jeno error na show kore properly bhabe all things show kore and chaile tomar moto kore design korte paro
+Thank You.
