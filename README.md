@@ -375,3 +375,14 @@ SOFTWARE.
 ```
 Only for Educational puposses and If this tools used for bad Purpose i'm not responsible for that. 
 Thank You.
+## 💝 Support the Project
+
+If you find this project helpful, consider supporting us:
+
+- 🌐 **Website**: [Visit Site](https://my-site-ridtwyyx-mdm73602.wix-vibe.com/)
+- ☕ **Buy Me a Coffee**: [Support](https://www.buymeacoffee.com/pentadex)
+- 💬 **SMS for Support**: Send us a message!
+
+---
+
+*Your support helps us maintain and improve this project!*
