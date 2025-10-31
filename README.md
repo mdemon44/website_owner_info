@@ -1,12 +1,11 @@
-<div align="center">
-https://img.shields.io/badge/Team-Pentadex-blue?style=for-the-badge
-https://img.shields.io/badge/Version-1.0-green?style=for-the-badge
-https://img.shields.io/badge/Python-3.8%252B-blue?style=for-the-badge
-https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge
+# <div align="center">
 
-Professional Open Source Intelligence Tool for Security Researchers
 
-Features • Installation • Plugins • Configuration • Support
+![Team Pentadex](https://img.shields.io/badge/Team-Pentadex-blue?style=for-the-badge)
+![Version 1.0](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)
+![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
+![License MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 </div>
 
