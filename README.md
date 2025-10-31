@@ -1,4 +1,3 @@
-</head>
 <body>
   <div class="wrap">
     <div class="badges" aria-hidden="true">
@@ -7,6 +6,7 @@
       <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge" alt="Python 3.8+" class="badge">
       <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License MIT" class="badge">
     </div>
+  </body>
 
     <h1>Professional Open Source Intelligence Tool for Security Researchers</h1>
     <p class="lead">A compact, focused README-style preview. Cleanly structured with sections for Features, Installation, Plugins, Configuration, and Support.</p>
