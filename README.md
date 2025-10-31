@@ -1,16 +1,12 @@
-```markdown
-# 🕵️‍♂️ Enterprise OSINT Intelligence Platform
-
 <div align="center">
+https://img.shields.io/badge/Team-Pentadex-blue?style=for-the-badge
+https://img.shields.io/badge/Version-1.0-green?style=for-the-badge
+https://img.shields.io/badge/Python-3.8%252B-blue?style=for-the-badge
+https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge
 
-![Banner](https://img.shields.io/badge/Team-Pentadex-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+Professional Open Source Intelligence Tool for Security Researchers
 
-**Professional Open Source Intelligence Tool for Security Researchers**
-
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Support](#-support)
+Features • Installation • Plugins • Configuration • Support
 
 </div>
 
