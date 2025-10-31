@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 1. **Run the tool**
 ```bash
-python advanced_osint.py
+python info.py
 ```
 
 2. **Choose an option from the menu**
@@ -93,7 +93,7 @@ deactivate
 ### Tool Usage Commands
 ```bash
 # Run the OSINT tool
-python advanced_osint.py
+python info.py
 
 # Run with basic version
 python osint_simple.py
