@@ -1,31 +1,3 @@
-<!doctype html>
-<html lang="bn">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Pentadex — README Preview</title>
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--accent:#0ea5e9;--muted:#94a3b8;--glass:rgba(255,255,255,0.04)}
-    *{box-sizing:border-box}
-    html,body{height:100%;margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,'Helvetica Neue',Arial; background:linear-gradient(180deg,#071022 0%, #071827 60%);color:#e6eef8}
-    .wrap{max-width:980px;margin:36px auto;padding:28px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border-radius:14px;box-shadow:0 6px 30px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
-    .badges{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-bottom:18px}
-    .badge{display:inline-block;padding:6px;border-radius:12px;background:var(--glass);backdrop-filter:blur(6px)}
-    h1{font-size:28px;margin:6px 0 4px;text-align:center}
-    p.lead{color:var(--muted);text-align:center;margin:0 0 18px}
-    .grid{display:grid;grid-template-columns:1fr 320px;gap:20px}
-    @media (max-width:880px){.grid{grid-template-columns:1fr}}
-    .card{background:linear-gradient(180deg,rgba(255,255,255,0.01),transparent);padding:18px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
-    .features{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
-    @media (max-width:520px){.features{grid-template-columns:1fr}}
-    .feature{padding:10px;background:rgba(255,255,255,0.02);border-radius:8px}
-    pre, code{background:#071126;padding:10px;border-radius:8px;color:#cdebf7;overflow:auto}
-    .right{position:relative}
-    .toc{font-size:14px;color:var(--muted);line-height:1.7}
-    .section-title{display:flex;align-items:center;gap:10px;margin-bottom:8px}
-    .pill{font-size:12px;background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:999px}
-    footer{margin-top:18px;color:var(--muted);font-size:13px;text-align:center}
-  </style>
 </head>
 <body>
   <div class="wrap">
